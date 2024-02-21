@@ -11,8 +11,7 @@
 
 - 📫 How to reach me :      **adarshgd111@gmail.com**
 
-- 📄 Know about my experiences   :       [Working as CTO @ Experimind Labs. Former Technical Head @ Basics International;](Working as CTO @ Experimind Labs. Former Technical Head @ Basics International;)
-
+- 📄 Know about my experiences   :      **Working as CTO @ Experimind Labs. Former Technical Head @ Basics International;**
 - ⚡ Fun fact   :  **Why do programmers prefer dark mode? Because light attracts bugs!**
 
 <h3 align="left">Connect with me:</h3>
